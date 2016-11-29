@@ -40,6 +40,10 @@ References
 
 - Assuming your current directory is the project root directory.
 
+- `$ mv config.orig.py config.py`
+
+- Set your API Key to variable API_KEY inside the file 'config.py'.
+
 - Make sure you use Python 3 to run it.  I use virtualenv as below.
 
   Create virtualenv (for Python 3) and activate it.
